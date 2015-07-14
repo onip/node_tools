@@ -1,0 +1,21 @@
+{
+  "name": "node_tools",
+  "version": "0.0.0",
+  "description": "Collection of node development tools currently in use",
+  "private": true,
+  "author": "Andrea Pinazzi <follettoonip@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "^1.4.1",
+    "bunyan": "^1.4.0",
+    "ember-cli": "^1.13.1",
+    "grunt-cli": "^0.1.13",
+    "gulp": "^3.9.0",
+    "jscs": "^1.13.1",
+    "jshint": "^2.8.0",
+    "mosca": "^0.30.5",
+    "mup": "^0.11.1",
+    "node-inspector": "^0.11.1",
+    "typescript": "^1.5.0-beta"
+  }
+}

@@ -9,14 +9,14 @@
     "babel": "^5.6.23",
     "bower": "^1.4.1",
     "bunyan": "^1.4.0",
-    "ember-cli": "^1.13.1",
     "grunt-cli": "^0.1.13",
     "gulp": "^3.9.0",
-    "jscs": "^1.13.1",
+    "jscs": "^2.0.0",
     "jshint": "^2.8.0",
-    "mosca": "^0.30.5",
+    "mosca": "^0.32.0",
     "mup": "^0.11.1",
-    "node-inspector": "^0.11.1",
-    "typescript": "^1.5.0-beta"
+    "node-inspector": "^0.12.1",
+    "typescript": "^1.5.0",
+    "webpack": "^1.10.5"
   }
 }

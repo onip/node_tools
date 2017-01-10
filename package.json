@@ -8,21 +8,21 @@
   "dependencies": {
     "babel-cli": "^6.1.0",
     "bower": "^1.7.2",
-    "browserify": "^13.0.0",
+    "browserify": "^13.3.0",
     "bunyan": "^1.4.0",
     "gulp": "^3.9.0",
     "jshint": "^2.8.0",
-    "live-server": "^1.0.0",
+    "live-server": "^1.2.0",
     "mosca": "^2.0.1",
-    "node-gyp": "^3.3.1",
+    "node-gyp": "^3.5.0",
     "node-inspector": "^0.12.1",
     "nodemon": "^1.8.0",
     "npm-check": "^5.0.1",
-    "prettyjson": "^1.1.3",
+    "prettyjson": "^1.2.1",
     "sharp-cli": "^0.7.0",
-    "typescript": "^2.0.10",
-    "webpack": "^1.10.5",
-    "wscat": "^1.0.1",
-    "yarn": "^0.16.1"
+    "typescript": "^2.1.4",
+    "webpack": "^1.14.0",
+    "wscat": "^1.1.1",
+    "yarn": "^0.18.1"
   }
 }

@@ -6,17 +6,20 @@
   "author": "Andrea Pinazzi <follettoonip@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "babel-cli": "^6.24.1",
-    "browserify": "^14.4.0",
-    "gulp": "^3.9.0",
-    "jshint": "^2.9.5",
-    "live-server": "^1.2.0",
-    "node-gyp": "^3.6.2",
-    "node-inspector": "^1.1.1",
-    "npm": "^5.3.0",
+    "@angular/cli": "^7.1.1",
+    "c8": "^3.2.1",
+    "eslint": "^5.9.0",
+    "hpm-cli": "^2.0.1",
+    "live-server": "^1.2.1",
+    "ngrok": "^3.1.0",
+    "npm": "^6.4.1",
+    "parcel-bundler": "^1.10.3",
     "prettyjson": "^1.2.1",
-    "typescript": "^2.4.1",
-    "vue-cli": "^2.8.2",
-    "webpack": "^3.3.0"
+    "rollup": "^0.67.4",
+    "tslint": "^5.11.0",
+    "typescript": "^3.2.1",
+    "webpack": "^4.27.0",
+    "webpack-cli": "^3.1.2",
+    "wscat": "^2.2.1"
   }
 }

@@ -21,7 +21,7 @@
     "typescript": "^3.8.3",
     "webpack": "^4.43.0",
     "webpack-bundle-analyzer": "^3.7.0",
-    "webpack-cli": "^3.3.11",
+    "webpack-cli": "^3.3.12",
     "wscat": "^4.0.0",
     "yaml-lint": "^1.2.4"
   },
